@@ -1,4 +1,4 @@
-# Everythingabouttech - Blogging Website
+# Everythingabouttech - The Amazing Blogging Website
 
 Simple Blogging website made using Django and Bootstrap. 
 
